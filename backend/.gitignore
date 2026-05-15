@@ -4,6 +4,18 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### Eclipse ###
+.metadata/
+.recommenders/
+bin/
+*.launch
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
 ### STS ###
 .apt_generated
 .classpath
@@ -31,3 +43,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
